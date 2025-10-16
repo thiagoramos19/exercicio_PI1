@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Music</title>
+  </head>
+  <body>
+      <ol>
+        <li><b>Beethoven: <u>5th Symphony</u> </b> - Música de suspense e terror clássica. Aparecia no <i>Mais Você</i>
+quando a <b><i>Ana Maria Braga</i></b> provava uma comida. Apareceu também no filme <i>“Se eu fosse você“</i>,
+entre outras participações.</li>
+        <audio src="https://archive.org/details/beethovenacharacterstudy_1604_librivox/beethovenacharacterstudy_01_fischer_128kb.mp3">Audio</audio>
+        <li><b>Mozart: <u>Eine Kleine Nachtmusik</u> </b> -  Pequena serenata, obrigatória para os fãs de clássicos. Presente também no rock na música clássica de <b><i>Tenacious D.</i></b></li>
+        <audio src="https://archive.org/details/beethovenacharacterstudy_1604_librivox/beethovenacharacterstudy_01_fischer_128kb.mp3">Audio</audio>
+        <li><b>Bach: <u>Toccata And Fugue</u> </b> -Música de impacto, presente em diversos filmes e até mesmo
+em desenho animado.</li>
+        <audio src="https://archive.org/details/beethovenacharacterstudy_1604_librivox/beethovenacharacterstudy_01_fischer_128kb.mp3">Audio</audio>
+        <li><b>Rossini: <u>William Tell Overture</u> </b> - Música de suspense e terror clássica. Aparecia no <i>Mais Você</i>
+quando a <b><i>Ana Maria Braga</i></b> provava uma comida. Apareceu também no filme <i>“Se eu fosse você“</i>,
+entre outras participações.</li>
+        <audio src="https://archive.org/details/beethovenacharacterstudy_1604_librivox/beethovenacharacterstudy_01_fischer_128kb.mp3">Audio</audio>
+        <li><b>Beethoven: <u>5th Symphony</u> </b> - Música de entrada de reis presente em quase todos os
+cartoons como <b>Tom</b> e <b>Jerry</b> ou <b>Pica-Pau</b>. Filmes medievais antigos também tocam essa música.
+Importante ainda citar que o Mickey já regeu essa música em The Band Concert.</li>
+        <audio src="https://archive.org/details/beethovenacharacterstudy_1604_librivox/beethovenacharacterstudy_01_fischer_128kb.mp3">Audio</audio>
+      </ol>
+      
+  </body>
+</html>
+
+
